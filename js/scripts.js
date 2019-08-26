@@ -1,17 +1,18 @@
 $(document).ready(function(){
     $(".click1").click(function(){
-        $("#par1").toggle();
-        $(".hidden1").toggle();
+        $("#par1").slideToggle(2100);
+        $(".hidden1").slideToggle(2100);
     });
     $(".click2").click(function(){
-        $("#par2").toggle();
-        $(".hidden2").toggle();
+        $("#par2").slideToggle(2100);
+        $(".hidden2").slideToggle(2100);
     });
     $(".click3").click(function(){
-        $("#par3").toggle();
-        $(".hidden3").toggle();
+        $("#par3").slideToggle(2100);
+        $(".hidden3").slideToggle(2100);
     });
-    $("button").click(function(){
+    $("form#submitForm").submit(function(event){
+        event.preventDefault();
         var name=$("#name").val();
         alert( name + " Thank you for reaching out to us!!!");
     });

@@ -95,7 +95,7 @@
 #head3{
     margin-right: 10px
 }
-.ip one{
+.ip {
     text-align: center;
     font-size: 30px;
     font-weight: bolder;
@@ -164,7 +164,7 @@ button{
 }
 .media{
     margin-top: 70px;
-    text-align: center
+    text-align: center;
     display: flex;
     justify-content: center;
     align-content: unset;
@@ -250,4 +250,8 @@ button{
         overflow: hidden;
         margin-left: 42%;
     }
+}
+.p{
+text-align: center;
+margin-left: 36%;
 }

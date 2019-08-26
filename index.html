@@ -85,13 +85,9 @@
             </div>
         </div>
         <div class="ip" id="ip">
-                
                    <div class="p">
                         <h1>PORTIFOLIO</h1>
                    </div>
-
-                      
-            
             <div class="row">
                 <div class=column-md-3>
                     <div class="row1">
@@ -140,15 +136,11 @@
         <div class="contact" id="contact">
             <h2>CONTACT US</h2>
             <div class="row">
-                <form>
-                    <input type="text" id="name" placeholder="Name...">
-                    <input type="text" id="email" placeholder="e-mail...">
-                </form>
-            </div>
-            <div class="row">
-                <form>
-                    <textarea rows="10" cols="80" placeholder="message..." id="text"></textarea>
-                    <button>Send</button>
+                <form id="submitForm">
+                    <input type="text" id="name" placeholder="Name..." required>
+                    <input type="email" id="email" placeholder="e-mail..." required>
+                    <textarea rows="10" cols="80" placeholder="message..." id="text" required></textarea>
+                    <button type="submit">Send</button>
                 </form>
             </div>
         </div>
