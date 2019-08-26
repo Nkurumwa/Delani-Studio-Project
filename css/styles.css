@@ -19,3 +19,21 @@
 }
 .mouseimg{
     padding-top:200px;
+     #logo{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    #studio{
+        display: flex;
+        justify-content: center;
+    }
+    .about{
+        height: 300px;
+    }
+    .about h2{
+        text-align: center;
+        padding-top: 30px;
+        font-size: 30px;
+        font-weight: bolder;
+    }
