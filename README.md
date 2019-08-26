@@ -1,7 +1,10 @@
 # Delani-studio
+## Author
+- Ishmael Nkurumwa
 ## Description
-- This is a website designed for a company that  teacheaches it's employees how to code and make better websites and when on goes into the company the staff members makes sure that the work is done really effectively,thie below picture is one of there portifolio:
+- This is a website platform for a company that  teaches its employees how to code and make great websites.The picture below is one of the company's portfolio:
 <img src="images/work1.jpg">
+
 
 
 ## parts of the website
@@ -9,7 +12,7 @@
 - the about part
 - what we do
 - portifolios
-- contact
+- contact section
 
 ## technologies used
 - HTML & CSS
@@ -19,7 +22,7 @@
 e-mail: nkurumwa51@gmail.com
 
 ## active link to my website
- 
+ https://nkurumwa.github.io/Delani-Studio-Project/.
 
 ## License
 - copyright (c) [2019] [Ishmael Nkurumwa]
