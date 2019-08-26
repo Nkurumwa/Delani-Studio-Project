@@ -1,0 +1,10 @@
+.first{
+    background-image: url("../images/h_img.jpg");
+    background-size: cover;
+    height: 700px;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding-top: 100px;
+    line-height: 30px;
+    margin-bottom: 0;
+}
