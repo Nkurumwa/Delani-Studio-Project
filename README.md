@@ -1,6 +1,6 @@
 # Delani-studio
 ## Description
-- This is a website designed for a company that  teacheaches it's employees how to code and make better websites and when on goes into the company the staff members makes sure that the work is done really effectively,thie below picture is one of there portifolio:
+-This is a website platform for a company that  teaches its employees how to code and make great websites.The picture below is one of the company's portfolio:
 <img src="images/work1.jpg">
 
 
