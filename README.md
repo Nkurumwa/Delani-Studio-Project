@@ -19,7 +19,7 @@
 e-mail: nkurumwa51@gmail.com
 
 ## active link to my website
- 
+ https://nkurumwa.github.io/Delani-Studio-Project/.
 
 ## License
 - copyright (c) [2019] [Ishmael Nkurumwa]
